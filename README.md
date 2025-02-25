@@ -37,3 +37,9 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
 # Creado por Agustin Hernandez Silva #
 
 # 16-08-2024 #
+
+
+![image](https://github.com/user-attachments/assets/346f936d-3e99-4fef-ac67-498587667cb2)
+
+![image](https://github.com/user-attachments/assets/f57712d1-15b0-4f45-bff2-883ce82b6d83)
+
